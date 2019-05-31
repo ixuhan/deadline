@@ -1,4 +1,4 @@
-package com.xkcoding.deadline;
+package com.xkcoding;
 
 /**
  * Hello world!
